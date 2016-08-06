@@ -1,0 +1,57 @@
+_repo: Mr.-Justice-Raffles_9806
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hornung, E. W. (Ernest William)
+    alias: Hornung, Ernest William
+    birthdate: 1866
+    deathdate: 1921
+    gutenberg_agent_id: '364'
+    url: http://www.gutenberg.org/2009/agents/364
+    wikipedia: http://en.wikipedia.org/wiki/Ernest_William_Hornung
+description: "Mr. Justice Raffles was a 1909 novel written by E.W. Hornung. It featured\
+  \ his popular character A. J. Raffles a well-known cricketer and gentleman thief.\
+  \ It was the fourth and last in his four Raffles books which had begun with The\
+  \ Amateur Cracksman in 1899.\nUnlike the three previous works, the book was a full-length\
+  \ novel and featured darker elements than the earlier collections of short stories.\
+  \ In it a jaded Raffles is growing increasingly cynical about British high society.\
+  \ He encounters Dan Levy, an unscrupulous moneylender, who manages to entrap a number\
+  \ of young men, mostly sons of the wealthy, by giving them loans and then charging\
+  \ huge amounts of interest. Raffles takes it upon himself to teach Levy a lesson.\n\
+  At the end of Hornung's second Raffles short story collection The Black Mask, Raffles\
+  \ and his companion Bunny Manders volunteer for service in the Second Boer War in\
+  \ 1899 where he was killed at the hands of the Boers. Hornung had intended this\
+  \ as a patriotic finale to his hero's story. However there was great popular demand\
+  \ for the return of the character, and a number of generous publishing offers, and\
+  \ Hornung agreed to write another book.\nIn this he has been compared to Arthur\
+  \ Conan Doyle's decision to resurrect Sherlock Holmes after he had been killed falling\
+  \ over the Reichenbach Falls. Doyle had managed this by revealing that Holmes had\
+  \ actually survived the falls, while Hornung set Mr. Justice Raffles before the\
+  \ events of the Boer War. The comparison between the resurrections of Holmes and\
+  \ Raffles is made interesting by the fact that Doyle and Hornung were brothers-in-law.\
+  \ Indeed prior to resurrecting Holmes, Doyle had used much the same technique, demand\
+  \ had called for another Holmes story, so the book he wrote to meet this demand\
+  \ The Hound of the Baskervilles was set prior to Holmes's \"demise\".\nIts reception\
+  \ was mixed, with some fans lamenting the loss of the carefree gentlemen thief of\
+  \ the early stories. It was the last Raffles work written by Hornung, although a\
+  \ number of continuations have been written by other authors in a mixture of parody\
+  \ and homage.\n\n\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: Crime Fiction
+gutenberg_issued: '2006-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9806'
+  wikidata: Q6928800
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Raffles (Fictitious character) -- Fiction'
+- !lcsh 'Criminals -- England -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: Mr. Justice Raffles
+url: http://www.gutenberg.org/ebooks/9806
+wikipedia:
+- https://en.wikipedia.org/wiki/Mr._Justice_Raffles
