@@ -1,5 +1,8 @@
 _repo: Mr.-Justice-Raffles_9806
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Hornung, E. W. (Ernest William)
@@ -36,6 +39,8 @@ description: "Mr. Justice Raffles was a 1909 novel written by E.W. Hornung. It f
   \ the early stories. It was the last Raffles work written by Hornung, although a\
   \ number of continuations have been written by other authors in a mixture of parody\
   \ and homage.\n\n\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/9806#Mr.-Justice-Raffles
 gutenberg_bookshelf: Crime Fiction
 gutenberg_issued: '2006-02-01'
 gutenberg_type: Text
